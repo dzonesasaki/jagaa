@@ -9,3 +9,5 @@ test
 これはテストです．githubの使い方を覚えるためのものです．
 by Dzone
 
+追記 dzoneより
+
